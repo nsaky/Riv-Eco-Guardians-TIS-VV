@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-kanit: Kanit;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-19xl-7: 38.7px;
+  --font-size-lgi-4: 19.4px;
+  --font-size-9xl-1: 28.1px;
+  --font-size-base-3: 16.3px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray: #2b2c2e;
+  --color-gray-100: rgba(255, 255, 255, 0.4);
+}
