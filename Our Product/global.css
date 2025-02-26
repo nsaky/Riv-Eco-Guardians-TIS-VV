@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-kanit: Kanit;
+
+  /* font sizes */
+  --font-size-9xl-1: 28.1px;
+  --font-size-19xl-7: 38.7px;
+  --font-size-base-3: 16.3px;
+  --font-size-lgi-4: 19.4px;
+  --font-size-65xl-4: 84.4px;
+  --font-size-30xl-2: 49.2px;
+  --font-size-2xl-1: 21.1px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-darkslategray-100: #2b2c2e;
+  --color-white: #fff;
+  --color-gray-100: rgba(255, 255, 255, 0.4);
+  --color-goldenrod: #d4af37;
+
+  /* Border radiuses */
+  --br-smi-7: 12.7px;
+}
