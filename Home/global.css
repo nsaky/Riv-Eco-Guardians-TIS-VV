@@ -1,0 +1,44 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-kanit: Kanit;
+  --font-inter: Inter;
+  --font-impact: Impact;
+  --font-imprint-mt-shadow: "Imprint MT Shadow";
+  --font-imbue: Imbue;
+
+  /* font sizes */
+  --font-size-19xl-7: 38.7px;
+  --font-size-lgi-4: 19.4px;
+  --font-size-30xl-2: 49.2px;
+  --font-size-2xl-1: 21.1px;
+  --font-size-9xl-1: 28.1px;
+  --font-size-11xl-9: 30.9px;
+  --font-size-base-9: 16.9px;
+  --font-size-lg: 18px;
+  --font-size-base-3: 16.3px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-darkslategray-100: #2b2c2e;
+  --color-gray-100: rgba(255, 255, 255, 0.4);
+  --color-gray-200: rgba(255, 255, 255, 0.5);
+  --color-antiquewhite: #f0ead6;
+  --color-goldenrod: #d4af37;
+  --color-gainsboro: #d9d9d9;
+  --color-red: #ff0000;
+
+  /* Border radiuses */
+  --br-smi-7: 12.7px;
+  --br-sm: 14px;
+  --br-6xl: 25px;
+}
